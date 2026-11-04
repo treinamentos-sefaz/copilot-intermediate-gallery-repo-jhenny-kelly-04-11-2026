@@ -24,7 +24,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} antialiased`}
       >
-        {/* Navigation Header */}
+        {/* Navigation    Header */}
         <header className="border-b bg-white/50 dark:bg-slate-900/50 backdrop-blur-sm sticky top-0 z-40">
           <div className="container mx-auto px-4 py-4">
             <div className="flex items-center justify-between">
